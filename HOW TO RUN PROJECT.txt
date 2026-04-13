@@ -1,0 +1,14 @@
+MAKE SURE DOWNLOAD ALL MODULES & LIBRARIES TO RUN:
+face recognition models
+haar cascade
+toggle theme
+view & show image
+dashboard charts pie chart
+cv2
+os
+pandas 
+pickel  coversion of histogram pixels
+numpy for numerics
+ptl for image view
+tkinter for gui
+all models extentions download in vs code to run this app corectly
